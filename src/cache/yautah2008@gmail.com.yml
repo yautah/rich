@@ -1,0 +1,83 @@
+--- 
+kaixin001.com: 
+  /: 
+    _invisible: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: kaixin001.com
+      expires: 
+      max_age: 
+      name: _invisible
+      path: /
+      port: 
+      secure: false
+      value: "0"
+      version: 0
+    _user: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: kaixin001.com
+      expires: 
+      max_age: 
+      name: _user
+      path: /
+      port: 
+      secure: false
+      value: c2d5b8e83d0df5d11de606c632ddb761_2667221_1264177074
+      version: 0
+    _uid: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: kaixin001.com
+      expires: Sat, 22 Jan 2011 16:17:39 GMT
+      max_age: 
+      name: _uid
+      path: /
+      port: 
+      secure: false
+      value: "2667221"
+      version: 0
+    _email: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: kaixin001.com
+      expires: Sat, 22 Jan 2011 16:17:39 GMT
+      max_age: 
+      name: _email
+      path: /
+      port: 
+      secure: false
+      value: yautah2008%40gmail.com
+      version: 0
+    _ref: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: kaixin001.com
+      expires: 
+      max_age: 
+      name: _ref
+      path: /
+      port: 
+      secure: false
+      value: .94FD
+      version: 0
+www.kaixin001.com: 
+  /: 
+    SERVERID: !ruby/object:WWW::Mechanize::Cookie 
+      comment: 
+      comment_url: 
+      discard: 
+      domain: www.kaixin001.com
+      expires: 
+      max_age: 
+      name: SERVERID
+      path: /
+      port: 
+      secure: false
+      value: _srv223-73_
+      version: 0

@@ -1,0 +1,16 @@
+自动收菜
+自动买种子
+自动锄地
+自动播种
+
+偷菜
+种爱心地
+
+http://dev.ctor.org/http-access2/ 
+http://raa.ruby-lang.org/project/httpclient/
+
+
+exerb
+UPX
+
+

@@ -1,0 +1,488 @@
+http://www.kaixin001.com/!richcity/!api_usertool.php?rt=xml&gid=2412119&rand=0.48784520430490375&act=create&tid=12
+制作道具返还消息
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<result>
+  <flag>err</flag>
+  <errno>2</errno>
+  <error>每人同时最多制作2个道具</error>
+</result>
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<result>
+  <flag>suc</flag>
+  <act>create</act>
+  <msg>查税卡已经开始制作，可以在你的“正在制作的道具”中看到</msg>
+  <tid>12</tid>
+</result>
+
+
+道具列表
+http://www.kaixin001.com/!richcity/!api_usertool.php?rt=xml&gid=2412119&rand=0.6076876255683601&act=init
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <act>init</act>
+    <item>
+        <tid>1</tid>
+        <tkey>Dog_Tool</tkey>
+        <name>流浪狗</name>
+        <type>0</type>
+        <target>2</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/liulanggou2.png</img>
+        <sort>11</sort>
+    </item>
+    <item>
+        <tid>2</tid>
+        <tkey>RoadBlock_Tool</tkey>
+        <name>路障卡</name>
+        <type>0</type>
+        <target>2</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/luzhang3.png</img>
+        <sort>10</sort>
+    </item>
+    <item>
+        <tid>3</tid>
+        <tkey>Bomb_Tool</tkey>
+        <name>地雷</name>
+        <type>0</type>
+        <target>2</target>
+        <hour>18</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/dilei2.png</img>
+        <sort>9</sort>
+    </item>
+    <item>
+        <tid>5</tid>
+        <tkey>Stop_Tool</tkey>
+        <name>停留卡</name>
+        <type>0</type>
+        <target>1</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/tingliuka2.png</img>
+        <sort>8</sort>
+    </item>
+    <item>
+        <tid>6</tid>
+        <tkey>Direction_Tool</tkey>
+        <name>转向卡</name>
+        <type>0</type>
+        <target>1</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/zhuanxiangka2.png</img>
+        <sort>7</sort>
+    </item>
+    <item>
+        <tid>7</tid>
+        <tkey>SX_Send_Tool</tkey>
+        <name>送神卡</name>
+        <type>0</type>
+        <target>0</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/songshenka2.png</img>
+        <sort>6</sort>
+    </item>
+    <item>
+        <tid>9</tid>
+        <tkey>Dict_Select_Tool</tkey>
+        <name>遥控骰子</name>
+        <type>0</type>
+        <target>0</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/yaokongshaizi2.png</img>
+        <sort>5</sort>
+    </item>
+    <item>
+        <tid>10</tid>
+        <tkey>SX_Invit_Tool</tkey>
+        <name>请神符</name>
+        <type>0</type>
+        <target>5</target>
+        <hour>18</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/qingshenka2.png</img>
+        <sort>4</sort>
+    </item>
+    <item>
+        <tid>11</tid>
+        <tkey>TwoDict_Tool</tkey>
+        <name>2倍骰子</name>
+        <type>0</type>
+        <target>0</target>
+        <hour>18</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/2beishaizi2.png</img>
+        <sort>3</sort>
+    </item>
+    <item>
+        <tid>12</tid>
+        <tkey>Tax_Tool</tkey>
+        <name>查税卡</name>
+        <type>0</type>
+        <target>1</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/chashuika2.png</img>
+        <sort>12</sort>
+    </item>
+    <item>
+        <tid>13</tid>
+        <tkey>Buy_Land_Tool</tkey>
+        <name>购地卡</name>
+        <type>0</type>
+        <target>3</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/goudika2_1.png</img>
+        <sort>13</sort>
+    </item>
+    <flag>suc</flag>
+    <msg/>
+</result>
+
+
+
+我的道具
+http://www.kaixin001.com/!richcity/!api_usertool.php?rt=xml&gid=226128&rand=0.40077041275799274&act=my
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <act>my</act>
+    <item>
+        <tid>5</tid>
+        <tkey>Stop_Tool</tkey>
+        <name>停留卡</name>
+        <type>0</type>
+        <target>1</target>
+        <who>0</who>
+        <point>2</point>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/tingliuka2.png</img>
+        <mynum>7</mynum>
+    </item>
+    <flag>suc</flag>
+    <msg/>
+</result>
+
+
+正在制作的道具
+http://www.kaixin001.com/!richcity/!api_usertool.php?rt=xml&gid=2412119&rand=0.2236620164476335&act=ing
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <act>ing</act>
+    <item>
+        <tid>12</tid>
+        <tkey>Tax_Tool</tkey>
+        <name>查税卡</name>
+        <type>0</type>
+        <target>1</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/chashuika2.png</img>
+        <ctime>2010-01-14 20:12:20</ctime>
+        <status/>
+        <minute>0</minute>
+        <timeleave>708</timeleave>
+        <progress>1</progress>
+    </item>
+    <item>
+        <tid>12</tid>
+        <tkey>Tax_Tool</tkey>
+        <name>查税卡</name>
+        <type>0</type>
+        <target>1</target>
+        <hour>12</hour>
+        <buy>0</buy>
+        <learn>0</learn>
+        <img>http://img.kaixin001.com.cn//i3/richcity/tool/chashuika2.png</img>
+        <ctime>2010-01-14 20:15:37</ctime>
+        <status/>
+        <minute>0</minute>
+        <timeleave>711</timeleave>
+        <progress>1</progress>
+    </item>
+    <flag>suc</flag>
+    <msg/>
+</result>
+
+
+
+股市信息
+http://www.kaixin001.com/!richcity/!api_stock.php?rt=xml&gid=2412119&r=0%2E9340047189034522
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <stock>
+        <item>
+            <sname>中华银行</sname>
+            <price>20.03</price>
+            <updown>-0.69</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>1</stockid>
+        </item>
+        <item>
+            <sname>国民石油</sname>
+            <price>10.77</price>
+            <updown>-0.92</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>2</stockid>
+        </item>
+        <item>
+            <sname>天宇通讯</sname>
+            <price>7.18</price>
+            <updown>2.87</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>3</stockid>
+        </item>
+        <item>
+            <sname>第一汽车</sname>
+            <price>7.44</price>
+            <updown>-0.67</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>4</stockid>
+        </item>
+        <item>
+            <sname>完美电器</sname>
+            <price>10.94</price>
+            <updown>-2.06</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>5</stockid>
+        </item>
+        <item>
+            <sname>华美服饰</sname>
+            <price>10.18</price>
+            <updown>0.49</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>6</stockid>
+        </item>
+        <item>
+            <sname>天天超商</sname>
+            <price>10.15</price>
+            <updown>-2.68</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>7</stockid>
+        </item>
+        <item>
+            <sname>千科地产</sname>
+            <price>14.20</price>
+            <updown>0.64</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>8</stockid>
+        </item>
+        <item>
+            <sname>传世老窖</sname>
+            <price>88.02</price>
+            <updown>0.87</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>9</stockid>
+        </item>
+        <item>
+            <sname>明天环能</sname>
+            <price>76.75</price>
+            <updown>-0.58</updown>
+            <dealnum>0</dealnum>
+            <holdnum>-</holdnum>
+            <cost>-</cost>
+            <stockid>10</stockid>
+        </item>
+    </stock>
+</result>
+
+
+单条股票信息
+http://www.kaixin001.com/!richcity/!api_stockinfo.php?stockid=3&rt=xml&gid=2412119&r=0%2E2913044593296945
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <price>
+        <item>
+            <price>7.05</price>
+            <inttime>62</inttime>
+        </item>
+        <item>
+            <price>7.01</price>
+            <inttime>5114</inttime>
+        </item>
+        <item>
+            <price>7.05</price>
+            <inttime>7261</inttime>
+        </item>
+        <item>
+            <price>6.92</price>
+            <inttime>10862</inttime>
+        </item>
+        <item>
+            <price>6.92</price>
+            <inttime>14462</inttime>
+        </item>
+        <item>
+            <price>6.94</price>
+            <inttime>18255</inttime>
+        </item>
+        <item>
+            <price>7.15</price>
+            <inttime>21661</inttime>
+        </item>
+        <item>
+            <price>7.03</price>
+            <inttime>25262</inttime>
+        </item>
+        <item>
+            <price>6.75</price>
+            <inttime>28863</inttime>
+        </item>
+        <item>
+            <price>6.92</price>
+            <inttime>32465</inttime>
+        </item>
+        <item>
+            <price>6.91</price>
+            <inttime>36071</inttime>
+        </item>
+        <item>
+            <price>6.92</price>
+            <inttime>39661</inttime>
+        </item>
+        <item>
+            <price>6.94</price>
+            <inttime>43264</inttime>
+        </item>
+        <item>
+            <price>6.92</price>
+            <inttime>46861</inttime>
+        </item>
+        <item>
+            <price>6.93</price>
+            <inttime>50462</inttime>
+        </item>
+        <item>
+            <price>7.22</price>
+            <inttime>54061</inttime>
+        </item>
+        <item>
+            <price>7.02</price>
+            <inttime>57662</inttime>
+        </item>
+        <item>
+            <price>6.84</price>
+            <inttime>61262</inttime>
+        </item>
+        <item>
+            <price>7.02</price>
+            <inttime>64862</inttime>
+        </item>
+        <item>
+            <price>7.19</price>
+            <inttime>68462</inttime>
+        </item>
+        <item>
+            <price>7.18</price>
+            <inttime>72063</inttime>
+        </item>
+    </price>
+    <yprice>6.98</yprice>
+    <pricemax>26.18</pricemax>
+    <pricemin>4.69</pricemin>
+    <fprice>7.18</fprice>
+    <pricecurr>&lt;font color='#FF0000'&gt;7.18&lt;/font&gt;</pricecurr>
+    <updown>&lt;font color='#FF0000'&gt;2.87%&lt;/font&gt;</updown>
+    <mycash>存款余额：350000</mycash>
+    <mytotalcash>350000</mytotalcash>
+    <mystocknum>0</mystocknum>
+    <addcash>-</addcash>
+    <maxprice>7.22</maxprice>
+    <minprice>6.75</minprice>
+</result>
+
+买入股票
+http://www.kaixin001.com/!richcity/!api_buystock.php?r=0%2E8033270803280175&stockid=3&rt=xml&gid=2412119&num=1
+
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <ret>succ</ret>
+    <msg>成功买入1股天宇通讯股票
+买 入 价：7.18元
+花费金额：7.18元
+存款余额：349993元
+
+请点击Flash下方你的角色头像，查看股票总数量和总金额</msg>
+    <addnum>1</addnum>
+    <num>1</num>
+    <stockid>3</stockid>
+    <cost>7.00</cost>
+    <cash>350000</cash>
+    <save>349986</save>
+</result>
+
+卖出股票
+http://www.kaixin001.com/!richcity/!api_salestock.php?r=0%2E8552212109789252&stockid=3&rt=xml&gid=2412119&num=3
+
+失败
+<?xml version="1.0" encoding="UTF-8" ?>
+<result>
+  <ret>fail</ret>
+  <msg>你还没有买入股票</msg>
+</result>
+
+成功
+<?xml version="1.0" encoding="UTF-8" ?>
+<result>
+  <ret>succ</ret>
+  <msg>成功卖出3股天宇通讯股票
+平均成本：7.33元
+卖 出 价：7.18元
+获    利：0元
+存款余额：350001元
+  </msg>
+  <addnum>-3</addnum>
+  <num>3</num>
+  <stockid>3</stockid>
+  <cost>-</cost>
+  <cash>350000</cash>
+  <save>350001</save>
+</result>
+
+
+
+

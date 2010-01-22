@@ -1,0 +1,16 @@
+[{"real_name"=>"希稀",
+  "share"=>1,
+  "icon20"=>"http://pic1.kaixin001.com/logo/8/90/20_34089029_1.jpg",
+  "uid"=>34089029},
+ {"real_name"=>"步乖",
+  "share"=>1,
+  "icon20"=>"http://pic1.kaixin001.com/logo/99/13/20_11991369_1.jpg",
+  "uid"=>11991369},
+ {"real_name"=>"韩佩君",
+  "icon20"=>"http://pic1.kaixin001.com/logo/57/72/20_49577249_5.jpg",
+  "uid"=>49577249,
+  "harvest"=>1}]
+
+
+share 1=种了爱心地,0=没有种爱心地
+harvest 1=可收获

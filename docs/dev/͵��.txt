@@ -1,0 +1,25 @@
+http://www.kaixin001.com/!house/!garden//getconf.php?verify=10457092_1062_10457092_1256408332_88bb1f8df30c7f8e314f5eb258a58069&fuid=49577249&r=0.7941323653794825
+
+http://www.kaixin001.com/!house/!garden/havest.php?fuid=49577249&farmnum=8&seedid=0&r=0%2E16217442322522402
+
+fuid 好友的id
+
+<data>
+<anti>0</anti>
+<leftnum>46</leftnum>
+<stealnum>1</stealnum>
+<num>1</num>
+<seedname>牧草</seedname>
+<fruitpic>http://img.kaixin001.com.cn//i2/house/garden/crop3/gouweiba.swf</fruitpic>
+<ret>succ</ret>
+</data>
+
+<data>
+<anti>0</anti>
+<leftnum>2</leftnum>
+<stealnum>1</stealnum>
+<num>1</num>
+<seedname>玫瑰</seedname>
+<fruitpic>http://img.kaixin001.com.cn//i2/house/garden/crop/meiguihua.swf</fruitpic>
+<ret>succ</ret>
+</data>

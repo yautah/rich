@@ -1,0 +1,3 @@
+
+http://www.kaixin001.com/!house/!garden/plough.php?farmnum=13&fuid=0&seedid=0&r=0%2E5550136058591306
+<data><ret>succ</ret><seedtips>你犁地挖到了1枚曼珠沙华，已经放入你的种子库中。</seedtips></data>

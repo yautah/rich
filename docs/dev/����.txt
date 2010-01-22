@@ -1,0 +1,16 @@
+cd E:\test\testruby\auto-kaixin\autokaixin
+exerb play.rb
+mkexy play.rb
+exerb play.exy
+D:/prog/jazz_upx/upx.exe -9 -qf -oautokaixin.exe play.exe
+
+cd E:\test\testruby\auto-kaixin\autokaixin
+exerb play.rb
+mkexy play.rb
+exerb play.exy
+D:/prog/jazz_upx/upx.exe -9 -qf -oautokaixin.exe play.exe
+
+需要安装
+1.exerb
+2.jazz_upx 或者直接下upx就行
+

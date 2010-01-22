@@ -1,0 +1,15 @@
+
+摇钱树
+http://www.kaixin001.com/!house/!garden/yaoqianshu.php?r=0%2E5977534046396613&fuid=0&verify=3551531%5F1062%5F3551531%5F1256404810%5Fdabd040797dc226527368aeca1e544b4
+http://www.kaixin001.com/!house/!garden/yaoqianshu.php?verify=11991369%5F1062%5F11991369%5F1256323025%5Fe44ca4e18f36305898538279a3966e4a&fuid=3551531&r=0%2E47038971399888396
+pic = yaoqinshu3.swf 2345 可摇钱
+pic = yaoqinshu.swf,yaoqinshu1.swf 不可摇钱
+
+
+<data>
+<tip>恭喜你在自己家的摇钱树摇到了一堆金子，价值50000元，已充入你的账户</tip>
+<ret>succ</ret>
+<swf>http://img.kaixin001.com.cn/i2/house/garden/yaoqianshu.swf</swf>
+</data>
+
+

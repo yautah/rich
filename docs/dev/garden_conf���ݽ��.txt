@@ -1,0 +1,69 @@
+cropsstatus   作物状态 1 生长中 2 已成熟
+cropsid 作物id
+fuid: friend user id
+shared: 是否爱心地 0=否;1=是
+
+<item>
+<water>5</water>
+<farmnum>1</farmnum> 
+<vermin>0</vermin>
+<cropsid>14217293718</cropsid>  0 表示没有任何作物
+<fuid>-1</fuid>
+friendname
+<status>1</status>      0=未开垦,1=已开垦
+<grass>0</grass>        #是否需要除草
+<shared>0</shared>      #是否爱心地 0=否;1=是
+<pic>http://img.kaixin001.com.cn//i2/house/garden/crop3/gouweiba1.swf</pic>
+<fruitpic>http://img.kaixin001.com.cn//i2/house/garden/crop3/gouweiba.swf</fruitpic>
+<picwidth>130</picwidth>
+<picheight>120</picheight>
+<cropsstatus>3</cropsstatus> # 3=需要锄地,2=可收获
+<grow>2</grow>                生长时间
+<totalgrow>2</totalgrow>      需要生长时间
+<fruitnum>50</fruitnum>       产量
+<seedid>63</seedid>
+<name>牧草</name>
+</item>
+
+
+1 2 3   9  13
+4 5 8   11    14
+6 7 10  12  15
+
+花园信息
+http://www.kaixin001.com/!house/!garden//getconf.php?verify=11991369_1062_11991369_1256329527_1545f6cb67d20500ee1b81e8e8ccc540&fuid=0&r=0.7845799732021987
+
+
+浇水
+捉虫
+除草
+
+锄地
+锄地.txt
+
+播种
+http://www.kaixin001.com/!house/!garden/farmseed.php?farmnum=13&fuid=0&seedid=63&r=0%2E3981370432302356
+收获
+http://www.kaixin001.com/!house/!garden/havest.php?farmnum=13&fuid=0&seedid=0&r=0%2E6343007427640259
+
+我的种子清单
+http://www.kaixin001.com/!house/!garden/myseedlist.php?verify=11991369_1062_11991369_1256323025_e44ca4e18f36305898538279a3966e4a&page=1&r=0.2632284094579518
+
+商店种子清单
+http://www.kaixin001.com/!house/!garden//seedlist.php?verify=11991369_1062_11991369_1256323025_e44ca4e18f36305898538279a3966e4a&r=0.009807384107261896
+
+购买种子
+
+人参娃娃
+http://www.kaixin001.com/!house/!garden/ginseng.php?verify=11991369%5F1062%5F11991369%5F1256323025%5Fe44ca4e18f36305898538279a3966e4a&flag=1&r=0%2E31183963222429156
+
+摇钱树 -> 摇钱树.txt
+
+点每块地的时候出发操作,返回错误,不知道为什么
+http://www.kaixin001.com/!house/!garden/qicaihulu.php?fuid=3551531&cropsid=14215344851&idx=0&verify=11991369_1062_11991369_1256323025_e44ca4e18f36305898538279a3966e4a
+
+搜索好友
+http://www.kaixin001.com/interface/suggestfriend.php?pars=f1&text=b&r=0.5953050134703517
+所有好友
+http://www.kaixin001.com/!house/!garden/friendlist.php?r=0.17013126891106367
+

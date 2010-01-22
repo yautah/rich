@@ -1,0 +1,5 @@
+<data><ginsengid>1</ginsengid><ginsengword>人参娃娃送你1个菠菜种子，你现在可以下种了</ginsengword><ginsengimg>http://img.kaixin001.com.cn//i2/house/garden/crop/bocai.swf</ginsengimg><ret>succ</ret></data>
+
+
+http://www.kaixin001.com/!house/!garden/ginseng.php?verify=33688533%5F1062%5F33688533%5F1256407395%5F287834909c29814743e5baab858b32b1&flag=1&r=0%2E08253977634012699
+这个有点复杂,不知道怎么弄的

@@ -1,0 +1,19 @@
+http://www.kaixin001.com/!house/!garden//smartc.php?verify=3551531_1062_3551531_1256512140_7777a2487196584b0e107490bf506fda&fuid=0&r=0.4388687168247998
+
+<data><faq>
+<item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/doujiao.swf</pic><id>8</id></item>
+<item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/renshen.swf</pic><id>21</id></item>
+<item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/xianrenzhang.swf</pic><id>26</id></item>
+<item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop1/shuidao.swf</pic><id>36</id></item>
+<item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop1/yangmei.swf</pic><id>40</id></item>
+</faq><tpic>http://www.kaixin001.com/house/garden/smartq.php</tpic><ret>succ</ret></data>
+
+http://www.kaixin001.com/!house/!garden//smarta.php?ordernum=%2C36%2C26%2C8%2C21%2C40&verify=3551531%5F1062%5F3551531%5F1256512140%5F7777a2487196584b0e107490bf506fda
+ordernum    ,36,26,8,21,40
+verify  3551531_1062_3551531_1256512140_7777a2487196584b0e107490bf506fda
+<data><ret>succ</ret></data>
+
+%2C,
+
+
+<data><faq><item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/juhua1.swf</pic><id>16</id></item><item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/renshen.swf</pic><id>21</id></item><item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop/xianrenzhang.swf</pic><id>26</id></item><item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop2/taozi0.swf</pic><id>37</id></item><item><pic>http://img.kaixin001.com.cn/i2/house/garden/crop1/love.png</pic><id>39</id></item></faq><tpic>http://www.kaixin001.com/house/garden/smartq.php</tpic><ret>succ</ret></data>

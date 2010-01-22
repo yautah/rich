@@ -1,0 +1,22 @@
+﻿ignore_bom: true
+
+logins:
+  - email: yautah2008@gmail.com
+    password: 800000
+    id: 2667221
+    agent: Windows IE 7
+  #- email: feza@163.com
+    #password: 800000
+    #id: 46427649 
+    #agent: Windows IE 7
+  #- email: jasonchen1976@tom.com
+    #password: 800000
+    #id: 56675658 
+    #agent: Windows IE 7
+  #- email: gaowei@LookUgly.com
+    #password: 800000
+    #id: 57109330 
+    #agent: Windows IE 7
+
+showlog: true
+debug: false

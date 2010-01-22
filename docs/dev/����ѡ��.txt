@@ -1,0 +1,14 @@
+=exerb 构建rb为exe
+
+=upx 压缩exe文件
+
+==rubyzip 打包 
+gem install rubyzip
+
+# window计划任务
+C:\>at 23:00 /every:M,T,W,Th  "C:\cygwin\bin\bash.exe -c /bin/st_daily"
+C:\>at 23:00 /every:F   "C:\cygwin\bin\bash.exe -c /bin/st_weekly"
+日志%SystemRoot%\SchedLgU.Txt
+
+schtasks
+schtasks /create /tn "autokaixin" /tr E:\prog\autokaixin\autokaixin.exe /sc minute /mo 30 /ru "system"
